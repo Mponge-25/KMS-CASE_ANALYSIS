@@ -1,4 +1,4 @@
-# KULTRA MEGA STORE CASE_ANALYSIS
+# KMS CASE_ANALYSIS
 
 Businesses thrive based on informed decisions from existing data. This document provides useful data insights from an exploratory data analysis conducted for Kultra Mega Stores, with respect to the company's sales performance, customer base and category, as well as transportation. This analysis aims to provide information to management on the current state of the business and enable them take business decisions from an informed perspective for the future.
  
@@ -58,4 +58,8 @@ If we go further to look at the average shipping days, it is the same across all
 1. Pointed out
    - the product category and region with the highest sales.
    - customers who brought the least and most value to the company in different segments.
+   - customer with the most orders within a four years period.
 2. Highlighted the need for management to review shipping policies.
+3. Documented and included the syntax used in the analysis which can be reused and or modified for optimality.
+
+[KMS QUERY SYNTAX](https://raw.githubusercontent.com/Mponge-25/KULTRA-MEGA-STORE-CASE_ANALYSIS/refs/heads/main/SQL%20SYNTAX%20FOR%20KULTRA%20MEGA%20STORE.sql)
