@@ -1,4 +1,4 @@
-# KMS-CASE_ANALYSIS
+# KULTRA MEGA STORE CASE_ANALYSIS
 
 Businesses thrive based on informed decisions from existing data. This document provides useful data insights from an exploratory data analysis conducted for Kultra Mega Stores, with respect to the company's sales performance, customer base and category, as well as transportation. This analysis aims to provide information to management on the current state of the business and enable them take business decisions from an informed perspective for the future.
  
