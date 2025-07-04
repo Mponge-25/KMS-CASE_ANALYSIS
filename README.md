@@ -2,7 +2,7 @@
 
 Businesses thrive based on informed decisions from existing data. This document provides useful data insights from an exploratory data analysis conducted for Kultra Mega Stores, with respect to the company's sales performance, customer base and category, as well as transportation. This analysis aims to provide information to management on the current state of the business and enable them take business decisions from an informed perspective for the future.
  
-To begin the analysis, the Kultra Mega Stores Inventory file was uploaded into the SQL Studio Management Server as a flat file, and some modifications made on the dataset. Then we proceeded to conduct a guided analysis by running a series of queries in the dataset as seen below.
+To begin the analysis, the Kultra Mega Stores Inventory file was uploaded into the SQL Studio Management Server as a flat file, and some modifications made on the dataset. Then we proceeded to conduct a guided analysis by running a series of queries and syntaxes in the dataset as seen below.
 
 ## CASE SCENARIO I:
 
@@ -53,3 +53,9 @@ If we go further to look at the average shipping days, it is the same across all
 
 ![KMS Question 11(ii)](https://github.com/user-attachments/assets/51ce6323-e8fe-4962-bd3d-0231ce3f3666)
 ![KMS Questiion 11(iii)](https://github.com/user-attachments/assets/50d70821-5dcd-49ab-8f78-d27a938db2a5)
+
+## KEY CONTRIBUTIONS
+1. Pointed out
+   - the product category and region with the highest sales.
+   - customers who brought the least and most value to the company in different segments.
+2. Highlighted the need for management to review shipping policies.
