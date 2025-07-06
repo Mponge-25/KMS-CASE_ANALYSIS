@@ -63,4 +63,3 @@ If we go further to look at the average shipping days, it is the same across all
 3. Documented and included the syntax used in the analysis which can be reused and or modified for optimality.
 
 [KMS QUERY SYNTAX](https://raw.githubusercontent.com/Mponge-25/KULTRA-MEGA-STORE-CASE_ANALYSIS/refs/heads/main/SQL%20SYNTAX%20FOR%20KULTRA%20MEGA%20STORE.sql)
-
